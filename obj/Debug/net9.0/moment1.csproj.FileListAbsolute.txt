@@ -19,7 +19,6 @@ D:\studier\dt191G\moment1\obj\Debug\net9.0\scopedcss\bundle\moment1.styles.css
 D:\studier\dt191G\moment1\obj\Debug\net9.0\scopedcss\projectbundle\moment1.bundle.scp.css
 D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\4wfn18b1hh-b9sayid5wm.gz
 D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\rpsv1359sl-61n19gt1b8.gz
-D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\taoqetf2xp-xtxxf3hu2r.gz
 D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\ov9866jrqp-bqjiyaj88i.gz
 D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\r0k9i2e7bu-c2jlpeoesf.gz
 D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\arshbi08w8-erw9l3u2r3.gz
@@ -95,3 +94,5 @@ D:\studier\dt191G\moment1\obj\Debug\net9.0\refint\moment1.dll
 D:\studier\dt191G\moment1\obj\Debug\net9.0\moment1.pdb
 D:\studier\dt191G\moment1\obj\Debug\net9.0\moment1.genruntimeconfig.cache
 D:\studier\dt191G\moment1\obj\Debug\net9.0\ref\moment1.dll
+D:\studier\dt191G\moment1\obj\Debug\net9.0\moment1.sourcelink.json
+D:\studier\dt191G\moment1\obj\Debug\net9.0\compressed\taoqetf2xp-snow1ejxsz.gz

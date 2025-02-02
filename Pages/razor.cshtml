@@ -1,0 +1,31 @@
+@page
+@model moment1.Pages.razor
+@{
+    ViewData["Title"] = "razor";
+    string [] kurser  = {"test","test2","test3"};
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h2>Information</h2>
+    <p><strong>Datum/klockslag</strong>: @DateTime.Now.ToString() </p>
+    <br>
+    @if(DateTime.Now.DayOfWeek == DayOfWeek.Friday)
+    {
+        <p>Idag är det fredag</p>
+    }
+    else
+    {
+        <p>Idag är det inte fredag</p>
+    }
+    
+    <h2>Kurser som jag har läst</h2>
+    <ol>
+        @foreach (var kurs in kurser)
+        {
+            <li>@kurs</li>
+        }
+    </ol>
+
+</div>
