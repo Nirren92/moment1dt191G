@@ -2,7 +2,7 @@
 @model moment1.Pages.razor
 @{
     ViewData["Title"] = "razor";
-    string [] kurser  = {"test","test2","test3"};
+    string [] kurser  = {"DT191","DT192","DT193"};
 }
 
 <h1>@ViewData["Title"]</h1>
@@ -21,11 +21,11 @@
     }
     
     <h2>Kurser som jag har läst</h2>
-    <ol>
-        @foreach (var kurs in kurser)
-        {
-            <li>@kurs</li>
-        }
-    </ol>
+        <ol>
+            @foreach (var kurs in kurser)
+            {
+                <li>@kurs</li>
+            }
+        </ol>
 
 </div>
